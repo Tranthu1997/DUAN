@@ -1,0 +1,9 @@
+D:\NIÊN LUÂN CƠ SỞ\Forms chinh\Forms chinh\bin\Debug\Forms chinh.exe.config
+D:\NIÊN LUÂN CƠ SỞ\Forms chinh\Forms chinh\bin\Debug\Forms chinh.exe
+D:\NIÊN LUÂN CƠ SỞ\Forms chinh\Forms chinh\bin\Debug\Forms chinh.pdb
+D:\NIÊN LUÂN CƠ SỞ\Forms chinh\Forms chinh\obj\Debug\Forms chinh.csprojResolveAssemblyReference.cache
+D:\NIÊN LUÂN CƠ SỞ\Forms chinh\Forms chinh\obj\Debug\Forms_chinh.main.resources
+D:\NIÊN LUÂN CƠ SỞ\Forms chinh\Forms chinh\obj\Debug\Forms_chinh.Properties.Resources.resources
+D:\NIÊN LUÂN CƠ SỞ\Forms chinh\Forms chinh\obj\Debug\Forms chinh.csproj.GenerateResource.Cache
+D:\NIÊN LUÂN CƠ SỞ\Forms chinh\Forms chinh\obj\Debug\Forms chinh.exe
+D:\NIÊN LUÂN CƠ SỞ\Forms chinh\Forms chinh\obj\Debug\Forms chinh.pdb
